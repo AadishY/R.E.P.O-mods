@@ -1,3 +1,9 @@
+
+
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/AadishY/R.E.P.O-mods/releases)
+
+
+
 # R.E.P.O Modpack
 
 Welcome to the ultimate **R.E.P.O Modpack** – a comprehensive package tailored for an enhanced multiplayer experience, crafted specifically for me and my friends. This modpack brings together a unique blend of mods designed to make gameplay more engaging and dynamic.
