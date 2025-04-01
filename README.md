@@ -2,7 +2,8 @@
 
 # [![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/AadishY/R.E.P.O-mods/releases/download/Mods/REPO.zip)
 
-
+*****Download from above button ****
+****Delete CONFIG AND PLUGIN FOLDER FIRST THEN PASTE IT THERE****
 
 # R.E.P.O Modpack
 
